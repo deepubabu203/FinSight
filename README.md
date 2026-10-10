@@ -110,3 +110,16 @@ The database contains customers, accounts, transactions, KYC records, and countr
 ## Disclaimer
 
 FinSight is an educational portfolio project. All generated financial and customer records are synthetic and do not represent real customers or transactions.
+## Power BI Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](docs/screenshots/executive_overview.png)
+
+### 2. Transaction Analysis
+![Transaction Analysis](docs/screenshots/transaction_analysis.png)
+
+### 3. Customer and Account Analysis
+![Customer and Account Analysis](docs/screenshots/customer_account_analysis.png)
+
+### 4. Risk and KYC Analysis
+![Risk and KYC Analysis](docs/screenshots/risk_kyc_analysis.png)
