@@ -1,0 +1,11 @@
+country,risk_level,risk_score
+India,Low,20
+USA,Low,15
+UK,Low,15
+Singapore,Low,10
+UAE,Medium,45
+Germany,Low,15
+Country_X,High,90
+Country_Y,High,85
+Country_Z,Medium,60
+Country_A,Medium,55
